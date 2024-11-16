@@ -1,0 +1,11 @@
+mysql
+express
+body-parser
+path
+bcrypt
+express-session
+jsonwebtoken
+cookie-parser
+twilio
+passport
+ejs
